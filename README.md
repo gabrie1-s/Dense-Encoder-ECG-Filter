@@ -35,6 +35,9 @@ We compared the model with what we call a Deterministic Filter, composed by:
 * Notch filter
 
 ## Filtering Results
+The results are presented in table below, showing the average MAE and RMSE metrics for all signals in the test set. 
+Standard deviations are shown in parentheses.
+
 |  |  RMSE  |  MAE  |
 | --- |  ---  |  ---  |
 |TiDE Filter | 0.042(±0.048)| 0.03(±0.038)|
